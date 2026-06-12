@@ -14,7 +14,7 @@ export const PROJETS = [
     annee: "2025",
     role: "Développeur full-stack",
     img: "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=1200&q=80",
-    github: "https://github.com",
+    github: "https://github.com/NathaRHS/Aeronav",
     demo: "",
   },
   {
