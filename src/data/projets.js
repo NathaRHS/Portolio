@@ -28,7 +28,7 @@ export const PROJETS = [
     role: "Développeur front-end",
     img: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=80",
     github: "https://github.com",
-    demo: "",
+    demo: "nearbyshop.me",
   },
   {
     slug: "schooltech",
